@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Manual dos Padrinhos</title>
 </head>
 <body>
   <h1>Manual dos Padrinhos</h1>
