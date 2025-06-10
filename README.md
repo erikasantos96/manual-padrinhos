@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Manual dos Padrinhos</title>
 </head>
 <body>
   <h1>Manual dos Padrinhos</h1>
